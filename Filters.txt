@@ -1,0 +1,8 @@
+Orders / Shipping / Receipts
+****************************
+label:order-updates label:unread subject: -"been canceled" -"is ready" -"been paid" -"recent dowload" -"sale confirmed" -"order confirmed" -"receipt for your" -"thankyou for placing" -"offer accepted!" -"order is confirmed" -"order receipt" -"placing a mobile order" -"recent download" -"was delivered" -"has shipped" -"has been delivered" -"order #" -"item #" -"payment received" -"your invoice" -"package scheduled" -"signing up" -"has been updated" -"for registering" -"been successfully funded" -"registration confirmation" -"maintainance" -"your balance" -"update #" -"boarding passes" -"booking request" -"confirmation of" -"Bitcoin.Tax receipt" -"your submission" -"Tracking Number" -"refund from" -"transfer request" -"booking has been submitted" -"Deposit Notification" 
+
+
+Account Security Alerts
+***********************
+subject: ("login notification" | "signed in" | "connected to" | "privacy notice" | "confirm your email" | "terms of service" | "account alert" | "account activity" | "confirm your email" | "new login from" | "new payment method" | "new login to" | "privacy policy" | "close this account" | "OAuth application" | "account is closing" | "expire soon" | "account registration" | "new account")
